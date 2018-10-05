@@ -1,0 +1,10 @@
+---
+title: Swapkats.Github.Io
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
